@@ -5,10 +5,6 @@
 - I’m currently learning Rust <br />
   This is meant to be a repo for said project and other personal stuff
 
-### Connect with me:
-
-[<img alt="alt_text" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/acsegurog/)
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
