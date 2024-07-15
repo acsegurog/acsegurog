@@ -2,7 +2,7 @@
 
 ## I'm a software developer and language enthusiast ( Spanish, english, 中文 ).
 
-- I’m currently learning Golang <br />
+- I’m currently learning Rust <br />
   This is meant to be a repo for said project and other personal stuff
 
 ### Connect with me:
